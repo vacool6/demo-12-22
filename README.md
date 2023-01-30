@@ -1,4 +1,4 @@
-# NFlix look alike!
+# Netflix look alike!
 
 This is a Next.js project bootstrapped with `create-next-app`.
 
